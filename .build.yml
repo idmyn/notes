@@ -1,0 +1,17 @@
+image: alpine/latest
+packages:
+  - go
+  - yarn
+sources:
+  - https://git.sr.ht/~idmyn/zettelkasten
+  - https://git.sr.ht/~idmyn/notes
+secrets:
+  - c8bc7885-4bc0-4985-aea4-969b04fc99c1
+tasks:
+  - setup: |
+      yarn add netlify-cli
+      cd zettelkasten
+      NOTES_DIR="../notes" make
+  - deploy: |
+      source .env &>/dev/null
+      yarn run netlify deploy --prod --dir=zettelkasten/dist
