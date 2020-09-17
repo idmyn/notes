@@ -17,6 +17,9 @@ changed, applications I installed) for future reference, so here you go!
   * [Firefox](https://www.mozilla.org/en-US/firefox/new/) (log in, change search
     engine to [DuckDuckGo](https://duckduckgo.com))
   * [Spotify](https://www.spotify.com/)
+  * [NextDNS](https://nextdns.io)
+  * [Arq](https://www.arqbackup.com) (I usually need to pull at least one
+    file/folder from a backup in the process of setting things up)
 * Install [GPG Suite](https://gpgtools.org) and [import keys from
   backup](https://msol.io/blog/tech/back-up-your-pgp-keys-with-gpg/)
 * Clone [dotfiles repo](https://git.sr.ht/~idmyn/dotfiles) (install developer
