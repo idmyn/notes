@@ -3,13 +3,16 @@ packages:
   - go
   - yarn
 sources:
+  - https://github.com/MestreLion/git-tools
   - https://git.sr.ht/~idmyn/zettelkasten
   - https://git.sr.ht/~idmyn/notes
 secrets:
   - c8bc7885-4bc0-4985-aea4-969b04fc99c1
 tasks:
   - setup: |
+      git-tools/git-restore-mtime --work-tree notes --git-dir notes/.git
       yarn add netlify-cli
+  - build: |
       cd zettelkasten
       NOTES_DIR="../notes" make
   - deploy: |
