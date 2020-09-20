@@ -1,8 +1,14 @@
 ---
-title: My MacOS Setup
+title: My macOS Setup
 ---
 
 # My MacOS Setup
+
+* [[backups]]
+* [[my file system]]
+* [[macOS system recovery]]
+
+## Fresh install
 
 Having run into "storage almost full" messages for quite some time, I decided
 last month (August 2020) to clean things with a fresh macOS install. I tried to
@@ -17,11 +23,12 @@ changed, applications I installed) for future reference, so here you go!
   * [Firefox](https://www.mozilla.org/en-US/firefox/new/) (log in, change search
     engine to [DuckDuckGo](https://duckduckgo.com))
   * [Spotify](https://www.spotify.com/)
+  * [Tresorit](https://tresorit.com)
   * [NextDNS](https://nextdns.io)
-  * [Arq](https://www.arqbackup.com) (I usually need to pull at least one
-    file/folder from a backup in the process of setting things up)
 * Install [GPG Suite](https://gpgtools.org) and [import keys from
   backup](https://msol.io/blog/tech/back-up-your-pgp-keys-with-gpg/)
+* Restore `~/.ssh` from backup
+* Install [Homebrew](https://brew.sh/)
 * Clone [dotfiles repo](https://git.sr.ht/~idmyn/dotfiles) (install developer
   command line tools for git when prompted)
 * Install Emacs with
@@ -31,9 +38,6 @@ changed, applications I installed) for future reference, so here you go!
   more applications)
 * Unlock [git-crypt](https://www.agwa.name/projects/git-crypt/) in dotfiles to
   decrypt secrets
-* Install cloud storage apps ([Dropbox](https://www.dropbox.com/en_GB/) for
-  [Workflowy backups](https://workflowy.zendesk.com/hc/en-us/community/posts/360037130311/comments/360010185651)
-  and [Tresorit](https://tresorit.com) for everything else)
 * Manual steps to enable applications installed by dotfiles
   * Start [karabiner](https://karabiner-elements.pqrs.org/), grant security
     permissions, and run [goku](https://github.com/yqrashawn/GokuRakuJoudo)
@@ -52,8 +56,6 @@ changed, applications I installed) for future reference, so here you go!
   * Install [Standard Notes](https://standardnotes.org) for private notes
   * Install [Telegram](https://telegram.org)
   * Install [IINA](https://iina.io) media player
-  * Install [Arq](https://www.arqbackup.com) and configure it to backup my home
-    folder (excluding `node_modules`) daily to [Wasabi](https://wasabi.com)
   * Configure [Fastmail](https://www.fastmail.com/) with [their install
     script](https://www.fastmail.com/help/clients/mac.html)
   * Customise Mail.app to make it as minimalist as possible

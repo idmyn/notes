@@ -10,7 +10,6 @@ title: Email
 
 ## Tools
 
-* [[Thunderbird]]
 * https://useplaintext.email
 * https://manuelmoreale.com/emails
 
