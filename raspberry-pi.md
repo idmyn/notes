@@ -11,6 +11,7 @@ title: Raspberry Pi
 * [Hacker news discussion](https://news.ycombinator.com/item?id=24474309) for
   [Raspberry Pi as a local server for self hosting
   applications](https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/)
+* [Tailscale](https://tailscale.com/kb/1025/install-rpi) (so you don't need to worry about ssh ports)
 
 ## NixOS
 

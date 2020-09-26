@@ -10,6 +10,8 @@ title: Rust
 
 - [How I Start: Rust](https://christine.website/blog/how-i-start-rust-2020-03-15)
 - [TL;DR Rust](https://christine.website/blog/TLDR-rust-2020-09-19)
+- [rustlings](https://github.com/rust-lang/rustlings) - "Small exercises to get
+  you used to reading and writing Rust code"
 
 ## Modules
 
