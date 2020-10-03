@@ -1,5 +1,5 @@
 ---
-title: Computer Science: A Very Short Introduction
+title: Computer Science - A Very Short Introduction
 ---
 
 # Computer Science: A Very Short Introduction
