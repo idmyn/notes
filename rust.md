@@ -5,6 +5,7 @@ title: Rust
 # Rust
 
 - ["My Favorite Rust Function Signature"](https://www.brandonsmith.ninja/blog/favorite-rust-function)
+- https://wiki.alopex.li/RustStarterKit2020
 
 ## Language overviews/tutorials for beginners
 
