@@ -4,6 +4,16 @@ title: Golang
 
 # Go
 
+## Project structure
+
+- ["How I write HTTP services after eight
+  years"](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html) -
+  I really like this
+- ["Standard Package
+  Layout"](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1) -
+  some cool ideas here
+- for CLIs: ["The Within Go Repo Layout"](https://christine.website/blog/within-go-repo-layout-2020-09-07)
+
 ## func main
 
 - "[Why you shouldn't use func main in Go](https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer.html)"
