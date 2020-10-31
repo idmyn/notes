@@ -13,3 +13,10 @@ title: Fonts
 ## Sans-serif
 
 - [Inter](https://rsms.me/inter/)
+
+## Optimisation
+
+- https://meowni.ca/font-style-matcher/
+- https://github.com/Munter/subfont
+- https://everythingfonts.com/subsetter
+- https://www.fontsquirrel.com/tools/webfont-generator

@@ -24,3 +24,8 @@ install/configure nix-specific stuff, like
 1. Remove the entry from fstab using 'sudo vifs'
 2. Destroy the data volume using 'diskutil apfs deleteVolume'
 3. Remove the 'nix' line from /etc/synthetic.conf or the file
+
+## Set up linux-based Nix builder daemon via docker
+
+- https://medium.com/@zw3rk/provisioning-a-nixos-server-from-macos-d36055afc4ad
+- https://github.com/LnL7/nix-docker
