@@ -4,6 +4,8 @@ title: Nix on macOS
 
 # Nix on macOS
 
+see also: [[Nix]]
+
 ## nix-darwin
 
 I'm currently using [nix-darwin](https://github.com/LnL7/nix-darwin) to
