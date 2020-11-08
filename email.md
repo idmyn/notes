@@ -12,6 +12,7 @@ title: Email
 
 * https://useplaintext.email
 * https://manuelmoreale.com/emails
+* [MailMate](https://freron.com/)
 
 ## Fastmail
 
