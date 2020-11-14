@@ -4,7 +4,7 @@ title: Nix
 
 # Nix
 
-see also: [[NixOS]]
+see also: [[NixOS]], [[NixOps]], [[Nix on macOS]]
 
 ## Introduction
 
