@@ -4,6 +4,8 @@ title: Git
 
 # Git
 
+see also: [[Git Spelunking]]
+
 ## Master/Main
 
 - https://aj.codes/post/branch-agnostic-git-aliases/
