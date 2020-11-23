@@ -6,6 +6,9 @@ title: Git
 
 see also: [[Git Spelunking]]
 
+- [by default, git looks for a global .gitignore file at
+  `~/.config/git/ignore`](https://stackoverflow.com/a/22885996/10314380)
+
 ## Master/Main
 
 - https://aj.codes/post/branch-agnostic-git-aliases/

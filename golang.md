@@ -33,3 +33,7 @@ func run(args []string, stdout io.Writer) error {
 ## Context
 
 - https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/
+
+## HTTP frameworks?
+
+- compatible with net/http: https://github.com/go-chi/chi
