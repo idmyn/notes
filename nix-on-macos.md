@@ -29,3 +29,7 @@ install/configure nix-specific stuff, like
 
 - https://medium.com/@zw3rk/provisioning-a-nixos-server-from-macos-d36055afc4ad
 - https://github.com/LnL7/nix-docker
+
+## Example configs
+- https://github.com/HugoReeves/nix-home
+- https://github.com/teoljungberg/dotfiles

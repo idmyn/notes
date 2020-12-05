@@ -9,6 +9,11 @@ see also: [[NixOS]], [[NixOps]], [[Nix on macOS]]
 ## Introduction
 
 - https://christine.website/blog/nixos-desktop-flow-2020-04-25
+- https://blog.sulami.xyz/posts/nix-for-developers/
+
+## Nix-time-budget
+
+https://discourse.nixos.org/t/to-flake-or-not-to-flake/10047
 
 ## Workflow
 

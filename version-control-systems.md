@@ -4,8 +4,7 @@ title: Version Control Systems
 
 # Version Control Systems
 
+see also: [[git]]
+
 - https://pijul.org/
-
-## Darcs
-
 - https://darcsbook.acmelabs.space/
