@@ -14,6 +14,14 @@ title: Rust
 - [rustlings](https://github.com/rust-lang/rustlings) - "Small exercises to get
   you used to reading and writing Rust code"
 
+From [Hacker News](https://news.ycombinator.com/item?id=25621433): "A very low-effort way to learn good Rust patterns is to put
+
+```
+#![warn(clippy::all)]
+```
+
+at the top of your crate’s entrypoint. This enables Rust’s default linter. It’s a lot more friendly and focused on good design than you might expect, often suggesting more elegant alternatives. Plus, many of its suggestions can be applied automatically in an environment like VS Code + rust-analyzer plugin."
+
 ## Modules
 
 - [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/)
