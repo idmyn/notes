@@ -1,0 +1,7 @@
+---
+title: Lisp
+---
+
+# Lisp
+
+- [[Janet]]
