@@ -4,6 +4,8 @@ title: Rust
 
 # Rust
 
+- [Now is a really good time to make friends with
+  Rust](https://blog.red-badger.com/now-is-a-really-good-time-to-make-friends-with-rust)
 - ["My Favorite Rust Function Signature"](https://www.brandonsmith.ninja/blog/favorite-rust-function)
 - https://wiki.alopex.li/RustStarterKit2020
 
@@ -30,6 +32,7 @@ at the top of your crate’s entrypoint. This enables Rust’s default linter. I
 
 - https://blog.yoshuawuyts.com/error-handling-survey/
 
-## Arguments against Rust
+## Arguments against Rust (or: situations where rust doesn't shine)
 
 - [Why Not Rust?](https://matklad.github.io/2020/09/20/why-not-rust.html)
+- [Rust is a hard way to make a web API](https://macwright.com/2021/01/15/rust.html)
