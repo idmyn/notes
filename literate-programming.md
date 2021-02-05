@@ -14,6 +14,7 @@ build-step.
 ## Tools
 
 - https://zyedidia.github.io/literate/index.html
+- [org-mode](https://www.hhyu.org/posts/literate_config/)
 
 ## Literate Programs
 

@@ -4,6 +4,10 @@ title: Golang
 
 # Go
 
+## Beginner resources
+
+- https://yourbasic.org/golang/
+
 ## Project structure
 
 - ["How I write HTTP services after eight

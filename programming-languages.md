@@ -4,10 +4,11 @@ title: Programming Languages
 
 # Programming Languages
 
-- [[lisp]]
-- [[python]]
-- [[golang]]
-- [[rust]]
+- [[Lisp]]
+- [[Python]]
+- [[Golang]]
+- [[Rust]]
+- [[Elm]]
 
 ## The merits of leaning many
 

@@ -15,6 +15,8 @@ title: Rust
 - [TL;DR Rust](https://christine.website/blog/TLDR-rust-2020-09-19)
 - [rustlings](https://github.com/rust-lang/rustlings) - "Small exercises to get
   you used to reading and writing Rust code"
+- https://dhghomon.github.io/easy_rust/
+- https://www.possiblerust.com/
 
 From [Hacker News](https://news.ycombinator.com/item?id=25621433): "A very low-effort way to learn good Rust patterns is to put
 
