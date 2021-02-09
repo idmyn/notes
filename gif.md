@@ -4,6 +4,8 @@ title: Gif
 
 # Gif
 
+see also: [[ffmpeg]]
+
 - https://www.braytonstafford.com/creating-a-gif-from-quicktime-screen-recording/
 
 ```
