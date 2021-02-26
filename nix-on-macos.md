@@ -4,6 +4,8 @@ title: Nix on macOS
 
 # Nix on macOS
 
+see also: [[nix-dotfiles]]
+
 ## nix-darwin
 
 I'm currently using [nix-darwin](https://github.com/LnL7/nix-darwin) to
@@ -21,15 +23,13 @@ install/configure nix-specific stuff, like
 
 ## Steps to uninstall Nix on macOS
 
-1. Remove the entry from fstab using 'sudo vifs'
-2. Destroy the data volume using 'diskutil apfs deleteVolume'
-3. Remove the 'nix' line from /etc/synthetic.conf or the file
+1. Delete /nix with `sudo rm -rf /nix`
+2. Reboot
+3. Remove the entry from fstab using 'sudo vifs'
+4. Destroy the data volume using 'diskutil apfs deleteVolume'
+5. Remove the 'nix' line from /etc/synthetic.conf or the file
 
 ## Set up linux-based Nix builder daemon via docker
 
 - https://medium.com/@zw3rk/provisioning-a-nixos-server-from-macos-d36055afc4ad
 - https://github.com/LnL7/nix-docker
-
-## Example configs
-- https://github.com/HugoReeves/nix-home
-- https://github.com/teoljungberg/dotfiles

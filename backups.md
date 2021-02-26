@@ -4,6 +4,8 @@ title: Backups
 
 # Backups
 
+## Creating
+
 Most of my files are backed up in one of two ways.
 
 Files I might want to access on my phone or work laptop, or which I might want
@@ -19,4 +21,12 @@ entry in my [crontab](https://crontab.guru/#0_8_*_*_*).
 
 ```
 0 8 * * * bash ~/.backup.sh
+```
+
+## Restoring
+
+To restore a specific path:
+
+```
+restic --include /Users/david/src --target ./restored restore latest
 ```
