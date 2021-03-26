@@ -9,6 +9,7 @@ title: Programming Languages
 - [[Golang]]
 - [[Rust]]
 - [[Elm]]
+- [[Elixir]]
 
 ## The merits of leaning many
 

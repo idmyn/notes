@@ -18,6 +18,7 @@ https://discourse.nixos.org/t/to-flake-or-not-to-flake/10047
 ## Workflow
 
 - [How to set up a new project with Nix and Direnv](https://christine.website/blog/how-i-start-nix-2020-03-08)
+  - lorri alternative: https://github.com/nix-community/nix-direnv
 
 ## nix-shell
 
