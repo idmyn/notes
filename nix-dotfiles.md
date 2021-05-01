@@ -11,6 +11,8 @@ recently! You can find them in [a branch in my dotfiles
 repo](https://git.sr.ht/~idmyn/dotfiles/tree/nixpkgs).
 
 ## Examples
+
+- https://github.com/hlissner/dotfiles
 - https://github.com/HugoReeves/nix-home
 - https://github.com/teoljungberg/dotfiles
 - https://github.com/eraserhd/dotfiles

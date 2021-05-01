@@ -10,6 +10,7 @@ title: Programming Languages
 - [[Rust]]
 - [[Elm]]
 - [[Elixir]]
+- [[Haskell]]
 
 ## The merits of leaning many
 

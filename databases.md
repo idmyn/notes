@@ -2,6 +2,8 @@
 title: Databases
 ---
 
+see also: [[ORMs]]
+
 # Databases
 
-- [DuckDB](https://duckdb.org/)
+- [[SQLite]]

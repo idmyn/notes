@@ -11,6 +11,7 @@ title: Rust
 
 ## Language overviews/tutorials for beginners
 
+- https://loige.co/where-to-go-to-learn-rust-in-2021/
 - [How I Start: Rust](https://christine.website/blog/how-i-start-rust-2020-03-15)
 - [TL;DR Rust](https://christine.website/blog/TLDR-rust-2020-09-19)
 - [rustlings](https://github.com/rust-lang/rustlings) - "Small exercises to get
