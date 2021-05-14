@@ -8,6 +8,7 @@ title: Rust
   Rust](https://blog.red-badger.com/now-is-a-really-good-time-to-make-friends-with-rust)
 - ["My Favorite Rust Function Signature"](https://www.brandonsmith.ninja/blog/favorite-rust-function)
 - https://wiki.alopex.li/RustStarterKit2020
+- https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/
 
 ## Language overviews/tutorials for beginners
 

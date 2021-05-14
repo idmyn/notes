@@ -15,7 +15,7 @@ title: CSS
 }
 ```
 
-## restyleable HTML vs reusable CSS (or: why tailwind was created)
+## restyleable HTML vs reusable CSS (or: why [[Tailwind]] was created)
 
 - https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 
