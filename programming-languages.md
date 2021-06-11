@@ -11,6 +11,7 @@ title: Programming Languages
 - [[Elm]]
 - [[Elixir]]
 - [[Haskell]]
+- [[Ruby]]
 
 ## The merits of leaning many
 

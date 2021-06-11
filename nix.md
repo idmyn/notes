@@ -23,3 +23,7 @@ https://discourse.nixos.org/t/to-flake-or-not-to-flake/10047
 ## nix-shell
 
 - https://fzakaria.com/2020/08/11/caching-your-nix-shell.html
+
+## Create and debug packages
+
+https://nixos.wiki/wiki/Nixpkgs/Create_and_debug_packages

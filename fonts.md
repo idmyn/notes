@@ -7,7 +7,7 @@ title: Fonts
 ## Web-safe native font stack
 
 ```
--apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif
+font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
 ```
 
 ## Sans-serif
@@ -20,3 +20,4 @@ title: Fonts
 - https://github.com/Munter/subfont
 - https://everythingfonts.com/subsetter
 - https://www.fontsquirrel.com/tools/webfont-generator
+- https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/
