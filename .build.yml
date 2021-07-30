@@ -1,8 +1,12 @@
-image: archlinux
+image: nixos/21.05
+repositories:
+  nixpkgs: https://nixos.org/channels/nixos-21.05
 packages:
-  - go
-  - yarn
-  - python-pip
+  - nixpkgs.go
+  - nixpkgs.gnumake
+  - nixpkgs.netlify-cli
+  - nixpkgs.nodePackages.yarn
+  - nixpkgs.python39
 sources:
   - https://github.com/MestreLion/git-tools
   - https://git.sr.ht/~idmyn/zettelkasten
@@ -12,13 +16,11 @@ secrets:
 tasks:
   - setup: |
       git-tools/git-restore-mtime --work-tree notes --git-dir notes/.git
-      pip install fonttools brotli zopfli
-      yarn add netlify-cli subfont
+      yarn add subfont
   - build: |
-      export PATH=$PATH:/home/build/.local/bin
       cd zettelkasten
       NOTES_DIR="../notes" make
       yarn run subfont -i --root /home/build/zettelkasten/dist
   - deploy: |
       source .env &>/dev/null
-      yarn run netlify deploy --prod --dir=zettelkasten/dist
+      netlify deploy --prod --dir=zettelkasten/dist
