@@ -5,6 +5,7 @@ title: Tailwind
 # Tailwind
 
 - https://github.com/calebporzio/tailbuild
+- https://daisyui.com/
 
 ## Resources
 

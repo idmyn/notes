@@ -12,6 +12,7 @@ title: Programming Languages
 - [[Elixir]]
 - [[Haskell]]
 - [[Ruby]]
+- [[JavaScript]]
 
 ## The merits of leaning many
 

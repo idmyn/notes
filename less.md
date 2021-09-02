@@ -2,7 +2,7 @@
 title: less
 ---
 
-# `less`
+# less
 
 - https://blog.einval.eu/2018/09/less-can-do-more/
 
