@@ -8,3 +8,7 @@ see also: [[Databases]]
 
 - https://observablehq.com/@observablehq/plot
 - https://octo.github.com/projects/repo-visualization
+
+## JavaScript tools
+
+- https://pbeshai.github.io/tidy/
