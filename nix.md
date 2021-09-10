@@ -28,6 +28,6 @@ https://discourse.nixos.org/t/to-flake-or-not-to-flake/10047
 
 https://nixos.wiki/wiki/Nixpkgs/Create_and_debug_packages
 
-## on-demand docker images with nix packages
+## On-demand [[Docker]] images with nix packages
 
 - https://github.com/google/nixery
