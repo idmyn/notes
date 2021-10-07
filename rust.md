@@ -19,6 +19,7 @@ title: Rust
   you used to reading and writing Rust code"
 - https://dhghomon.github.io/easy_rust/
 - https://www.possiblerust.com/
+- https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/
 
 From [Hacker News](https://news.ycombinator.com/item?id=25621433): "A very low-effort way to learn good Rust patterns is to put
 

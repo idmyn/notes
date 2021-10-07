@@ -7,6 +7,8 @@ title: SQLite
 - https://antonz.org/sqlite-is-not-a-toy-database/
 - https://datasette.io/
 - https://github.com/dbcli/litecli
+- https://sqlime.org/
+- https://github.com/TaKO8Ki/gobang
 
 # Backups
 
