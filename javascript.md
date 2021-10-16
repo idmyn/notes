@@ -2,7 +2,7 @@
 title: JavaScript
 ---
 
-see also: [[JSON]]
+see also: [[JSON]] and [[TypeScript]]
 
 # JavaScript
 
