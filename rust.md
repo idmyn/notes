@@ -41,3 +41,7 @@ at the top of your crate’s entrypoint. This enables Rust’s default linter. I
 
 - [Why Not Rust?](https://matklad.github.io/2020/09/20/why-not-rust.html)
 - [Rust is a hard way to make a web API](https://macwright.com/2021/01/15/rust.html)
+
+## Traits
+
+- https://youtu.be/bnnacleqg6k

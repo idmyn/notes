@@ -14,14 +14,9 @@ to share with others, live in folders synced with
 for a long time before switching to Tresorit for its encryption and I recommend
 both.
 
-Pretty much everything else is backed up daily by [this
-script](https://git.sr.ht/~idmyn/dotfiles/tree/main/backup.sh) using
-[restic](https://restic.net/). I have it run every day at 8am with the following
-entry in my [crontab](https://crontab.guru/#0_8_*_*_*).
-
-```
-0 8 * * * bash ~/.backup.sh
-```
+Pretty much everything else is backed up from time to time via [this
+script](https://git.sr.ht/~idmyn/dotfiles/tree/main/item/scripts/backup) which
+uses [restic](https://restic.net/).
 
 ## Restoring
 
