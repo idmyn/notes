@@ -16,6 +16,10 @@ see also: [[Git Spelunking]]
 
 - https://aj.codes/post/branch-agnostic-git-aliases/
 
+## Style guide
+
+- https://github.com/alphagov/styleguides/blob/8dcf32a96babd651108ce5b6451c08a17982871c/git.md
+
 ## Rebase
 
 ### Fixup
