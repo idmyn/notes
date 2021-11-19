@@ -11,6 +11,7 @@ see also: [[Git Spelunking]]
 - [by default, git looks for a global .gitignore file at
   `~/.config/git/ignore`](https://stackoverflow.com/a/22885996/10314380)
 - big repo? `git clone --filter=blob:none <url>`
+- to get git log for changes in specific directory: `git log -- dirname`
 
 ## Master/Main
 

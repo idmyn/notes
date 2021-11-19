@@ -13,6 +13,8 @@ title: Programming Languages
 - [[Haskell]]
 - [[Ruby]]
 - [[JavaScript]]
+- [[Nim]]
+- [[PHP]]
 
 ## The merits of leaning many
 
