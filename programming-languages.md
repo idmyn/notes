@@ -15,6 +15,7 @@ title: Programming Languages
 - [[JavaScript]]
 - [[Nim]]
 - [[PHP]]
+- [[Scheme]]
 
 ## The merits of leaning many
 

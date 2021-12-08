@@ -4,8 +4,6 @@ title: Git
 
 # Git
 
-see also: [[Git Spelunking]]
-
 - decentralised git-powered code collaboration platform: https://radicle.xyz/
   - see also: [Scuttlebutt](https://scuttlebutt.nz/)
 - [by default, git looks for a global .gitignore file at
