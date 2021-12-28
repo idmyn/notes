@@ -8,6 +8,10 @@ title: Testing
 
 - https://kentcdodds.com/blog/write-tests
 
+## Testing in production
+
+- https://launchdarkly.com/blog/testing-in-production-for-safety-and-sanity/
+
 ## Javascript
 
 ### Mocking
