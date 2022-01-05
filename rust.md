@@ -10,6 +10,11 @@ title: Rust
 - https://wiki.alopex.li/RustStarterKit2020
 - https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/
 
+## Idiomatic Rust
+
+- https://github.com/mre/idiomatic-rust
+- https://github.com/BurntSushi/advent-of-code
+
 ## Language overviews/tutorials for beginners
 
 - https://loige.co/where-to-go-to-learn-rust-in-2021/

@@ -5,6 +5,7 @@ title: SQLite
 # SQLite
 
 - https://antonz.org/sqlite-is-not-a-toy-database/
+- https://christine.website/blog/sqlite-json-munge-2022-01-04
 - https://datasette.io/
 - https://github.com/dbcli/litecli
 - https://sqlime.org/
