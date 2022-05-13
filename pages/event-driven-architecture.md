@@ -11,3 +11,7 @@ pretty key thing. Trying to rewrite history seems to lead to serious headaches"
 - https://martinfowler.com/eaaDev/EventSourcing.html
 - http://natpryce.com/articles/000819.html
 - https://www.martinfowler.com/bliki/CQRS.html
+
+## Warnings
+
+- https://brandur.org/fragments/events

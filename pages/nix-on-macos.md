@@ -23,3 +23,7 @@ bright](https://opencollective.com/nix-macos)...
 
 - https://medium.com/@zw3rk/provisioning-a-nixos-server-from-macos-d36055afc4ad
 - https://github.com/LnL7/nix-docker
+
+## Detractors
+
+- https://github.com/mjlbach/nix-dotfiles/blob/dce02f266b30d3b311e0f91b0707540ae9275e7a/README.md

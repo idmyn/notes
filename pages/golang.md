@@ -8,6 +8,10 @@ title: Golang
 
 - https://yourbasic.org/golang/
 
+## Style
+
+- https://github.com/uber-go/guide/blob/master/style.md
+
 ## Project structure
 
 - ["How I write HTTP services after eight

@@ -2,7 +2,7 @@
 title: Data
 ---
 
-see also: [[Databases]]
+see also: [[Databases]], [[Diagrams]], [[Datalog]]
 
 ## Exploration
 
@@ -13,6 +13,10 @@ see also: [[Databases]]
 
 - https://observablehq.com/@observablehq/plot
 - https://octo.github.com/projects/repo-visualization
+
+## Transformation
+
+- https://getdtl.org/
 
 ## JavaScript tools
 

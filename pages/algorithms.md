@@ -6,4 +6,4 @@ title: Algorithms
 
 ## Reference implementations
 
-- [trekhleb/[[javascript]]-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)

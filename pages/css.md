@@ -5,6 +5,7 @@ title: CSS
 # CSS
 
 - https://markodenic.com/css-tips/
+- https://smolcss.dev/
 
 ## Center vertically
 
@@ -12,6 +13,16 @@ title: CSS
 .center {
   display: grid;
   place-items: center;
+}
+```
+
+## Specify line length by character count
+
+See also: [[typography]]
+
+```css
+p {
+  max-width: 60ch
 }
 ```
 

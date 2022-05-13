@@ -33,5 +33,5 @@ git log -S "some code" -p app/models/user.rb
 Search the commit messages themselves
 
 ```
-git log --grep "commit message search"
+git log --grep "commit message search" -i
 ```

@@ -4,6 +4,8 @@ title: PDF
 
 # PDF
 
+- https://localpdf.tech/
+
 ## Manipulation
 
 to merge multiple PDFs into one ([source](https://superuser.com/a/54043)):

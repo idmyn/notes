@@ -2,6 +2,8 @@
 title: SQLite
 ---
 
+see also: [[SQL]]
+
 # SQLite
 
 - https://antonz.org/sqlite-is-not-a-toy-database/
@@ -14,6 +16,21 @@ title: SQLite
 # Backups
 
 - https://mtlynch.io/litestream/
+- https://fly.io/blog/all-in-on-sqlite-litestream/
+
+## For JSON log spelunking
+
+- https://github.com/simonw/sqlite-utils
+- https://github.com/beekeeper-studio/beekeeper-studio
+
+```
+sqlite-utils insert logs.db logs logs_from_gcp.json --flatten
+open -a 'Beekeeper Studio' logs.db
+```
+
+## Sample database
+
+- https://www.sqlitetutorial.net/sqlite-sample-database/
 
 ## Tips
 

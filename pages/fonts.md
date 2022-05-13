@@ -4,6 +4,10 @@ title: Fonts
 
 # Fonts
 
+## Installing via npm
+
+- https://github.com/fontsource/fontsource
+
 ## Web-safe native font stack
 
 ```
