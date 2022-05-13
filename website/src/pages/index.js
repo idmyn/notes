@@ -18,9 +18,11 @@ const IndexPage = ({ data }) => {
         <h2 className="text-xl font-bold mb-3">recently updated</h2>
         <ul>
           {mostRecent.map(node => (
-            <Link to={node.fields.slug} className="hover:underline">
-              <li className="mb-1">{node.fields.title}</li>
-            </Link>
+            <li className="mb-1">
+              <Link to={node.fields.slug} className="hover:underline">
+                {node.fields.title}
+              </Link>
+            </li>
           ))}
         </ul>
       </main>
