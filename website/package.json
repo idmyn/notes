@@ -8,18 +8,25 @@
     "gatsby"
   ],
   "scripts": {
-    "develop": "gatsby develop",
+    "develop-host": "gatsby develop -H 0.0.0.0",
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@idmyn/gatsby-remark-backlinks": "^1.1.3",
+    "@idmyn/gatsby-remark-wiki-link": "^1.0.0",
+    "autoprefixer": "^10.4.7",
     "gatsby": "^4.4.0",
+    "gatsby-plugin-postcss": "^5.14.0",
     "gatsby-source-filesystem": "^4.4.0",
     "gatsby-transformer-remark": "^5.4.0",
+    "postcss": "^8.4.13",
+    "postcss-100vh-fix": "^1.0.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "zx": "^4.2.0"
+    "tailwindcss": "^3.0.24",
+    "zx": "^4.3.0"
   }
 }

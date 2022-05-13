@@ -4,7 +4,7 @@ module.exports = {
     title: "David's Notes",
   },
   plugins: [
-    "gatsby-transformer-remark",
+    'gatsby-plugin-postcss',
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -13,6 +13,21 @@ module.exports = {
         ignore: ["contents.md"],
       },
       __key: "pages",
+    },
+    {
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        plugins: [{
+          resolve: "@idmyn/gatsby-remark-wiki-link",
+          options: {
+            pageResolver: (name) => [name.replace(/ /g, '-').toLowerCase()],
+            hrefTemplate: (permalink) => `/${permalink}`
+          }
+        }],
+      }
+    },
+    {
+      resolve: `@idmyn/gatsby-remark-backlinks`,
     },
   ],
 };
