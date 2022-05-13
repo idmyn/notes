@@ -26,6 +26,7 @@ const NotePageTemplate = ({ data }) => {
 
   return (
     <main id="note">
+      <title>{note.fields.title}</title>
       <article
         dangerouslySetInnerHTML={{ __html: note.html }}
       />
@@ -52,6 +53,9 @@ export const pageQuery = graphql`
       frontmatter {
         title
         # date(formatString: "MMMM DD, YYYY")
+      }
+      fields {
+        title
       }
       inboundReferences {
         id

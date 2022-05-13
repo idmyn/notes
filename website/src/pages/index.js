@@ -12,8 +12,9 @@ const IndexPage = ({ data }) => {
   // search results could take the place of mostRecent when search field is populated
   return (
     <div className="h-screen grid place-items-center">
+      <title>David’s Notes</title>
       <main className="text-center">
-        <h1 className="text-3xl font-bold mb-5">David's Notes</h1>
+        <h1 className="text-3xl font-bold mb-5">David’s Notes</h1>
         <h2 className="text-xl font-bold mb-3">recently updated</h2>
         <ul>
           {mostRecent.map(node => (
