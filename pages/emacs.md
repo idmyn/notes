@@ -23,3 +23,10 @@ that the deno lsp should be used in a specific project you can add a
          (eval . (deno-fmt-mode))
          )))
 ```
+
+or if you wanted to set a specific formatter:
+
+```lisp
+((typescript-mode . ((+format-with . prettier)))
+ (typescript-tsx-mode . ((+format-with . prettier))))
+```
