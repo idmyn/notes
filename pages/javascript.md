@@ -11,3 +11,8 @@ see also: [[JSON]] and [[TypeScript]]
 ## Immutability
 
 - https://github.com/immerjs/immer
+
+## State management
+
+- [MobX-state-tree](https://github.com/mobxjs/mobx-state-tree)
+- simplest: [zustand](https://github.com/pmndrs/zustand)
