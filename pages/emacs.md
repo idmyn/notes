@@ -28,5 +28,8 @@ or if you wanted to set a specific formatter:
 
 ```lisp
 ((typescript-mode . ((+format-with . prettier)))
- (typescript-tsx-mode . ((+format-with . prettier))))
+ (typescript-tsx-mode . ((eval . (prettier-js-mode)))))
 ```
+
+You'll also need to allowlist those local variables under
+`safe-local-variable-values`. I do that in [my custom.el config file](https://github.com/idmyn/dotfiles/blob/641e1eecae04866e9597573dbdde2c470e3232df/dotfiles/doom/bits/custom.el).
