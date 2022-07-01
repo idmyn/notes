@@ -35,7 +35,7 @@ const IndexPage = ({ data }) => {
       <title>David’s Notes</title>
       <main className="text-center">
         <h1 className="text-3xl font-bold mb-5">David’s Notes</h1>
-        <input type="text" placeholder="search note titles" value={searchTerm} onChange={handleChange} className="mb-4 px-1 border-black border-solid border-2 rounded placeholder:text-neutral-500 placeholder:text-center text-black" />
+        <input autoFocus type="text" placeholder="search note titles" value={searchTerm} onChange={handleChange} className="mb-4 px-1 border-black border-solid border-2 rounded placeholder:text-neutral-500 placeholder:text-center text-black" />
         <h2 className="text-xl font-bold mb-3">{isSearching ? 'search results' : 'recently updated'}</h2>
         <ul>
           <NoteLinks notes={isSearching ? searchResults : sortedByDate} limit={isSearching ? 10 : 5} />
