@@ -9,3 +9,7 @@ title: Docker
 ## Container orchestration
 
 - https://github.com/afroisalreadyinu/miniboss
+
+## Optimisations
+
+- https://vladmihalcea.com/how-to-run-integration-tests-at-warp-speed-with-docker-and-tmpfs/
